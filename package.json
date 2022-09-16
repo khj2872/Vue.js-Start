@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "3.3.x",
+    "bootstrap": "3.4.x",
     "vue-router": "^3.0.2"
   }
 }
